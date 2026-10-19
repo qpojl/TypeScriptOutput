@@ -1,3 +1,4 @@
 "use strict";
-const bob = { name: "bob", age: 25 };
-console.log(bob);
+const isPanda = false;
+const isOk = true;
+console.log(isOk);
